@@ -1,8 +1,8 @@
 
 <h1>Hi, I'm Jose Lavado! <br/></h1>
-<h3>An IT System Administrator with over 15 years of experience on deploying, monitoring and troubleshooting various IT critical projects and solutions for Canadian Banks, Government, Media, Retail and Telecommunication companies. A team player, fast learner and technology enthusiast, always ready to put the customer first in a professional and timely manner. </h3>
+<b>An IT System Administrator with over 15 years of experience on deploying, monitoring and troubleshooting various IT critical projects.</b>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Active Directory Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
