@@ -1,6 +1,6 @@
 
 <h1>Hi, I'm Jose Lavado! <br/></h1>
-<b>An IT System Administrator with over 15 years of experience on deploying, monitoring and troubleshooting various IT critical projects.</b>
+<b>An IT System Administrator with over 15 years of experience on deploying, monitoring and troubleshooting various IT projects.</b>
 
 <h2>👨‍💻 Active Directory Projects:</h2>
 
