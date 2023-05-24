@@ -1,6 +1,6 @@
 
-<h1>Hi, I'm Jose Lavado! <br/>
-IT Systems Administrator for over 15 years.
+<h1>Hi, I'm Jose Lavado! <br/></h1>
+<h3>IT Systems Administrator.</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
