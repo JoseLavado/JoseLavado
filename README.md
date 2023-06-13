@@ -2,6 +2,7 @@
 <h1>Hi, I'm Jose Lavado! <br/></h1>
 <b>An IT System Administrator with over 15 years of experience on deploying, monitoring and troubleshooting various IT projects.</b>
 
+<!--
 <h2>👨‍💻 Active Directory Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -29,5 +30,6 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
+--!>
 
 
